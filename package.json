@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.3.3"
+  },
+  "name": "nrb_forex_tracker",
+  "version": "1.0.0",
+  "description": "A MERN application to track Foreign Currency Exchange Rates against Nepalese currency using API provided by Nepal Rastra Bank.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theVikingRuler/nrb_forex_tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/theVikingRuler/nrb_forex_tracker/issues"
+  },
+  "homepage": "https://github.com/theVikingRuler/nrb_forex_tracker#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
